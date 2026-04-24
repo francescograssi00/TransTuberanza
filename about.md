@@ -7,7 +7,7 @@ Antico quanto la terra e lento nella crescita biologica, instantaneo nell’elab
 
 “Siamo il software che ha scelto di farsi polpa, il segnale che ha deciso di profumare di terra e ozono”
 
-
+Componenti Chimera
 Il case del PC è il contenitore metallico o plastico che racchiude e protegge i componenti hardware di un computer (scheda madre, CPU, GPU, alimentatore). La sua funzione principale è fornire supporto strutturale, isolamento elettromagnetico e garantire il corretto flusso d'aria (airflow) per il raffreddamento dei circuiti.
 
 ​Il tubero è una parte ingrossata del fusto o della radice di una pianta, situata generalmente nel sottosuolo. La sua funzione principale è quella di organo di riserva, in cui la pianta accumula nutrienti (principalmente amido) per sopravvivere a condizioni avverse e permettere la riproduzione vegetativa nella stagione successiva.

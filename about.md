@@ -1,4 +1,4 @@
-# TransTuberanza Name
+# TransTuberanza
 
 Proviene da un fango digitale, un luogo dove scarti di hardware incontrano la biologia sotterranea. Un assemblaggio bio-meccanico dove tuberi purpurei avvolgono tessuti umani, stabilizzati da una barba di radici e alimentati da un nucleo hardware a vista.
 È apparso come un Klon (germoglio), nato dall'atto di fiducia di un corpo reale che ha consegnato la propria pesantezza a un interprete meccanico per proiettarsi nel virtuale e divenire clone. 
